@@ -10,7 +10,7 @@
         "john-doe": "John Doe",
         "jane-doe": "Jane Doe",
         "johnny-doe": "Johnny Doe",
-        "jean-doe": "Jean Doe",
+        "ricco-lim": "Ricco Lim",
         "james-doe": "James Doe"
       },
       "headingKeywords": {}
@@ -140,6 +140,14 @@
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/riccoljy.md",
+      "title": "Ricco's Project Portfolio Page",
+      "headings": {
+        "project-wedding-planner-pro": "Project: Wedding Planner Pro"
       },
       "headingKeywords": {}
     }
