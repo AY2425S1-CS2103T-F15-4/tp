@@ -11,7 +11,7 @@
         "jane-doe": "Jane Doe",
         "johnny-doe": "Johnny Doe",
         "ricco-lim": "Ricco Lim",
-        "james-doe": "James Doe"
+        "peh-ting-xuan": "Peh Ting Xuan"
       },
       "headingKeywords": {}
     },
@@ -148,6 +148,14 @@
       "title": "Ricco's Project Portfolio Page",
       "headings": {
         "project-wedding-planner-pro": "Project: Wedding Planner Pro"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/tingxuanp.md",
+      "title": "Ting Xuan's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
       "headingKeywords": {}
     }
