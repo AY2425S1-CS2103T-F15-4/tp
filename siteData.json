@@ -138,8 +138,10 @@
         "task-features": "Task Features",
         "creating-a-task-create-task": "Creating a Task : create-task",
         "delete-a-task-delete-task": "Delete a Task : delete-task",
-        "assigning-a-task-to-a-contact-assign-task-wip": "Assigning a Task to a contact : assign-task (WIP)",
-        "unassigning-a-task-from-a-contact-unassign-task-wip": "Unassigning a Task from a contact : unassign-task (WIP)",
+        "assigning-a-task-to-a-contact-assign-task": "Assigning a Task to a contact : assign-task",
+        "un-assigning-a-task-from-a-contact-unassign-task": "Un-assigning a Task from a contact : unassign-task",
+        "mark-a-task-as-completed-mark-task": "Mark a task as completed : mark-task",
+        "un-mark-a-task-unmark-task": "Un-mark a task  : unmark-task",
         "faq": "FAQ",
         "known-issues": "Known issues",
         "command-summary": "Command summary"
