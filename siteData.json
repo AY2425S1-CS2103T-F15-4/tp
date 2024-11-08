@@ -38,6 +38,7 @@
     },
     {
       "src": "DeveloperGuide.md",
+      "title": "Developer guide",
       "headings": {
         "wedlinker-developer-guide": "WedLinker Developer Guide",
         "acknowledgements": "Acknowledgements",
