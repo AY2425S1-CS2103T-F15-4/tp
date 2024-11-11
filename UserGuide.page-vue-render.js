@@ -86,7 +86,7 @@ with(this){return _c('p',[_v("You can see a list of all "),_c('a',{attrs:{"href"
 with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list-weddings")]),_v(" or "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("lw")])])}
 },function anonymous(
 ) {
-with(this){return _c('h4',{attrs:{"id":"listing-all-tasks"}},[_v("Listing all Tasks`"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#listing-all-tasks","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h4',{attrs:{"id":"listing-all-tasks"}},[_v("Listing all Tasks"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#listing-all-tasks","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("You can see a list of all "),_c('a',{attrs:{"href":"#creating-one-or-more-tasks"}},[_v("Tasks")]),_v(" in the WedLinker by entering the command "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list-tasks")]),_v(".")])}
