@@ -92,8 +92,9 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
-        "quick-guide": "Quick Guide",
-        "deleting-a-person": "Deleting a person",
+        "quick-guide-to-prefixes-and-commands": "Quick Guide to Prefixes and Commands",
+        "person-features": "Person Features",
+        "vendor-features": "Vendor Features",
         "saving-data": "Saving data",
         "appendix-planned-enhancements": "Appendix: Planned Enhancements"
       },
