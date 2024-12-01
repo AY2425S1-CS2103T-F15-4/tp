@@ -18,9 +18,11 @@ The following java classes in the directory `tp\src\main\java\seedu\address\mode
 - Task, Todo, Deadline, Event <br>
 
 ChatGPT by OpenAI was used by DanzaSeah to:
-- Rephrase the JavaDocs of Task and Tag related classes to be more concise and clear,
-- Seek suggestions for organising and improving existing test cases,
-- Come up with better or more appropriate class and method names.
+(The following applies to all Task classes, Tag and Untag classes (Commands, Parser and Test))
+- Rephrase the JavaDocs to be more concise and clear,
+- Seek suggestions for organising and improving existing test cases, and coming up with new test cases,
+- Come up with better or more appropriate class and method names,
+- Refactor code / adopt alternative approaches.
 
 External Java libraries were also used in the project for various functionalities:
 - JavaFX: for the GUI

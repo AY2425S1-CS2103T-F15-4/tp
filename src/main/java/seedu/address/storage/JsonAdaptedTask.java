@@ -14,6 +14,9 @@ import seedu.address.model.task.Task;
  * This class serves as a base for JSON adaptations of specific task types
  * (e.g., Todo, Deadline, Event), which are represented as subclasses.
  */
+//@@author DanzaSeah-reused
+//Reused from https://www.baeldung.com/java-jackson-polymorphic-deserialization
+// with minor modifications, in conjunction with the use of ChatGPT
 @JsonTypeInfo(
     use = JsonTypeInfo.Id.NAME, // Use the name of the class to differentiate types
     include = JsonTypeInfo.As.PROPERTY, // Include type info as a property in the JSON
